@@ -1,5 +1,7 @@
-clone
-checkout
+# clone
+git clone is used to create a complete local copy of an existing Git repository.
+
+# checkout
 -b
 status
 push
